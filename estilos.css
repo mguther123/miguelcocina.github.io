@@ -32,6 +32,7 @@ nav a{
     font-weight: bolder;
     padding-left: 5px;
     padding-right: 5px;
+    transition: all 0.3s ease;
 }
 nav a:hover{
     background-color: #554C32;
